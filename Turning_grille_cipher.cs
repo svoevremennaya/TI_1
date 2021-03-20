@@ -8,7 +8,7 @@ namespace lab_1
 {
     class Turning_grille_cipher
     {
-        private static int number_squares = 6;
+        private static int number_squares = 5;
 
         public string CheckSource(string src)
         {
