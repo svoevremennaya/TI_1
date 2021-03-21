@@ -17,10 +17,7 @@ namespace lab_1
                 if (ind >= key.Length)
                     ind = 0;
                 if (straight.Length < length)
-                {
                     straight = straight + key[ind];
-                    ind++;
-                }
                 else
                     break;
             }
